@@ -2,6 +2,7 @@ package com.mesung.demo;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+import org.springframework.web.servlet.DispatcherServlet;
 
 @SpringBootApplication
 public class DemoApplication {
